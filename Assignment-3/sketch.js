@@ -138,5 +138,6 @@ class spriteAnimation {
     if (this.u == this.startU + this.duration) {
       this.u = this.startU;
     }
+    
   }
 }
